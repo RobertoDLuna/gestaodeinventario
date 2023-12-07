@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="d3ab5c8847cbb11009606042d16d439c" sys_domain="global" table="x_1250538_gest_o_0_pedidos" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 13:25:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bab5c8847cbb11009606042d16d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1250538_gest_o_0_pedidos" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">d3ab5c8847cbb11009606042d16d439c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">c35a904847cbb11009606042d16d43fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 13:25:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 13:25:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ab5c8847cbb11009606042d16d43a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1250538_gest_o_0_pedidos" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">d3ab5c8847cbb11009606042d16d439c</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">9bab5c8847cbb11009606042d16d439b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 13:25:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1250538_gest_o_0_pedidos</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 13:25:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3ab5c8847cbb11009606042d16d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1250538_gest_o_0_pedidos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d3ab5c8847cbb11009606042d16d439c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 13:25:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</application>
+        <file_path/>
+        <instance_id>05697f091b3a71149377eb9b2d4bcbbd</instance_id>
+        <instance_name>dev226404</instance_name>
+        <name>sys_ui_form_sections_d3ab5c8847cbb11009606042d16d439c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="d3ab5c8847cbb11009606042d16d439c" sys_domain="global" table="x_1250538_gest_o_0_pedidos" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:25:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1bab5c8847cbb11009606042d16d439f</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1250538_gest_o_0_pedidos" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">d3ab5c8847cbb11009606042d16d439c</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">c35a904847cbb11009606042d16d43fa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 13:25:48</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:25:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>17ab5c8847cbb11009606042d16d43a0</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1250538_gest_o_0_pedidos" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">d3ab5c8847cbb11009606042d16d439c</sys_ui_form><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1250538_gest_o_0_pedidos" sys_domain="global" view="Default view">9bab5c8847cbb11009606042d16d439b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 13:25:48</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1250538_gest_o_0_pedidos</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:25:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d3ab5c8847cbb11009606042d16d439c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1250538_gest_o_0_pedidos</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope><sys_update_name>sys_ui_form_sections_d3ab5c8847cbb11009606042d16d439c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 13:25:48</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>-1668944391</payload_hash>
+        <record_name>Pedidos</record_name>
+        <reverted_from/>
+        <source>cbcec0c8478bb11009606042d16d43b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:25:48</sys_created_on>
+        <sys_id>9bab5c8847cbb11009606042d16d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3f4e5aa90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:25:48</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>53ab5c883fcbb1104afd428c266dc2a2</update_guid>
+        <update_guid_history>53ab5c883fcbb1104afd428c266dc2a2:-1668944391,53ab5c88a8cbb11087bf9025ba16149e:527520812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:44:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>07b82cc3a6b54ac88341eeafeddbbc40</sys_id>
+        <sys_metadata>d3ab5c8847cbb11009606042d16d439c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1250538_gest_o_0_pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package>
+        <sys_parent display_value="">c04a504847cbb11009606042d16d4352</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope>
+        <sys_scope_delete display_value="">5a9264078b824c84bdbfc819d02f0a90</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_d3ab5c8847cbb11009606042d16d439c</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_d3ab5c8847cbb11009606042d16d439c">9bab5c8847cbb11009606042d16d43a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:44:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

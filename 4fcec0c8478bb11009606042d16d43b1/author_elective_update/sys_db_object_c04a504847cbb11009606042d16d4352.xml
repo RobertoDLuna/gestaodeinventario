@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Pedidos</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1250538_gest_o_0_pedidos</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">838574397d31311076daf29f52070d17</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:19:34</sys_created_on>
+        <sys_id>c04a504847cbb11009606042d16d4352</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope>
+        <sys_update_name>sys_db_object_c04a504847cbb11009606042d16d4352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:43:53</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</application>
+        <file_path/>
+        <instance_id>05697f091b3a71149377eb9b2d4bcbbd</instance_id>
+        <instance_name>dev226404</instance_name>
+        <name>sys_db_object_c04a504847cbb11009606042d16d4352</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Pedidos</label><live_feed_enabled>false</live_feed_enabled><name>x_1250538_gest_o_0_pedidos</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">838574397d31311076daf29f52070d17</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:19:34</sys_created_on><sys_id>c04a504847cbb11009606042d16d4352</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Pedidos</sys_name><sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope><sys_update_name>sys_db_object_c04a504847cbb11009606042d16d4352</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 13:43:53</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1136199204</payload_hash>
+        <record_name>Pedidos</record_name>
+        <reverted_from/>
+        <source>cbcec0c8478bb11009606042d16d43b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:43:54</sys_created_on>
+        <sys_id>58df9ccc47cbb11009606042d16d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3f5eea8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:43:54</sys_updated_on>
+        <type>Table</type>
+        <update_guid>10df9ccc71cbb110b6b84e24a0794b45</update_guid>
+        <update_guid_history>10df9ccc71cbb110b6b84e24a0794b45:-1136199204,804a504825cbb11056a401e3b8a506bf:179108431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:45:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>55e0f42d8bf5416998b10681ea7215a1</sys_id>
+        <sys_metadata>c04a504847cbb11009606042d16d4352</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250538_gest_o_0">4fcec0c8478bb11009606042d16d43b1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">4fcec0c8478bb11009606042d16d43b1</sys_scope>
+        <sys_scope_delete display_value="">5a9264078b824c84bdbfc819d02f0a90</sys_scope_delete>
+        <sys_update_name>sys_db_object_c04a504847cbb11009606042d16d4352</sys_update_name>
+        <sys_update_version display_value="sys_db_object_c04a504847cbb11009606042d16d4352">58df9ccc47cbb11009606042d16d4345</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:45:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
